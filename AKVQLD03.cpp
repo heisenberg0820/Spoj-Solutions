@@ -1,5 +1,3 @@
-//Range Minimum Query
-
 #include <bits/stdc++.h>
 
 #define wt while(t--)
